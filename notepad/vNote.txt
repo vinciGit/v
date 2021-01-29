@@ -64,3 +64,6 @@ find ./ -type f -size +102400k
 
 
 
+ubuntu18.04中安装notepad++显示中文乱码
+https://blog.csdn.net/Hao_jiu/article/details/108984142
+https://blog.csdn.net/weixin_33729196/article/details/93370024
