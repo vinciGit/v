@@ -1,0 +1,66 @@
+﻿ExtendPassages
+顺序:ExtendForward, ExtendBackward
+逆序:ExtendForward, ExtendBackward
+
+ExtendForward: 向前最后一个节点长度适配 
+               向前延伸
+ExtendBackward: 向后最后一个节点长度适配 
+               向后延伸
+			   
+			   
+			   
+git rebase   
+https://www.jianshu.com/p/6960811ac89c			   
+			
+Crp(customizable route planning) 算法介绍
+https://blog.csdn.net/carbon06/article/details/79475527
+			   
+			
+			
+浮点运算能力 = 处理器核数 * 每周期浮点运算次数 * 处理器主频
+FLOAS=核数*单核主频*CPU单个周期浮点计算值
+
+
+获取时间
+#include "time.h"
+
+clock_t start, finish;
+double duration;
+
+start = clock(); while( i-- ) ; 
+finish = clock();
+duration = (double)(finish - start) / CLOCKS_PER_SEC;
+printf( "%f seconds/n", duration ); 
+
+
+
+wait_for_close();
+
+
+
+
+PNC
+git clone file:///home/fxz/mdc_code/modules/pnc_local 
+git clone http://bitbucket-gic.geely.com/scm/l4/pnc.git
+git checkout mdc_dev 
+git log
+git status
+
+
+每次建立一个终端,都必须执行
+fxz@ubuntu:~/mdc_code$ source scripts/maker/env.sh 
+build
+
+
+
+
+CLI
+find ./ -type f -size +102400k
+
+
+
+
+环境变量
+
+
+
